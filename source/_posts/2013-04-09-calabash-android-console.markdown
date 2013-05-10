@@ -10,3 +10,10 @@ Although there is no document about calabash-android console, calabash-android d
 ```
 calabash-android console <apk>
 ```
+
+To start the app, use the following command.
+
+```
+irb(main):005:0> start_test_server_in_background
+nil
+```
