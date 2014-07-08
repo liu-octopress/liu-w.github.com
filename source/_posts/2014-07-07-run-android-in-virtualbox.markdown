@@ -37,7 +37,7 @@ DPI=240 vga=ask
 ``` (you can choose the screen size on boot)
 
 ## Get the IP address of the emulator
-Press Alt<+F1, you will get a console. Type ```netcfg``` and write down the ip address. Press Alt+F4 to go back to GUI.
+Press Alt+F1, you will get a console. Type ```netcfg``` and write down the ip address. Press Alt+F7 to go back to GUI.
 ## Connect with adb
 ```adb connect [ip of the emulator]```
 Then the emulator will show up in ```adb devices```
